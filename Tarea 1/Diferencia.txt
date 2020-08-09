@@ -1,0 +1,16 @@
+La programación imperativa es una serie de instrucciones con la finalidad de realizar ua accion en concreto.
+ 
+En la programación declarativa solo se describe el problema pero no los pasos necesarios 
+para llegar a su solución.
+
+programacion declarativa:
+
+$nombres = array_values($listaparticipantes);
+
+programacion Imperativa:
+
+$listaparticipantes = [1 => 'Peter', 2 => 'Hans', 3 => 'Sarah'];
+$nombres = [];
+foreach ($listaparticipantes as $id => $apellido) {
+    $nombres[] = $apellido;
+}
