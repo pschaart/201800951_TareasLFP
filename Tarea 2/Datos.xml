@@ -1,5 +1,4 @@
-<<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version="1.0" encoding="UTF-8"?>
 <Registro>
   <Estudiante>
     <DPI>3056574888802</DPI>
@@ -10,21 +9,21 @@
 
   <Estudiante>
     <DPI>95357895235</DPI>
-    <Carne>201800500</Carnet>
+    <Carnet>201800500</Carnet>
     <Nombre>Gerardo Zuleta</Nombre>
     <Carrera>Veterinaria</Carrera>
   </Estudiante>
 
   <Estudiante>
     <DPI>85655254256</DPI>
-    <Carne>201900562</Carnet>
+    <Carnet>201900562</Carnet>
     <Nombre>Juan Perez</Nombre>
     <Carrera>Derecho</Carrera>
   </Estudiante>
 
   <Estudiante>
     <DPI>8556421654161</DPI>
-    <Carne>202056884</Carnet>
+    <Carnet>202056884</Carnet>
     <Nombre>Guillermo Franco</Nombre>
     <Carrera>Medicina</Carrera>
   </Estudiante>
