@@ -1,0 +1,25 @@
+[
+ {
+  "Nombre" : "Pablo",
+  "Carnet" : "201800951",
+  "DPI" : "468495951916",
+  "Genero" : "Masculino"
+ },
+ {
+  "Nombre" : "wilmer",
+  "Carnet" : "201800781",
+  "DPI" : "468495951416",
+  "Genero" : "Masculino"
+ },
+ {
+  "Nombre" : "Grecia",
+  "Carnet" : "201800641",
+  "DPI" : "468495951416",
+  "Genero" : "Femenino"
+ },{
+  "Nombre" : "Alejandro",
+  "Carnet" : "201800981",
+  "DPI" : "468495951416",
+  "Genero" : "Masculino"
+ }
+]
