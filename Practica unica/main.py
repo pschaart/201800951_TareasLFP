@@ -26,9 +26,10 @@ if Accion[0].lower() == 'seleccionar':
       RECA = re.search('activo',SPL1[0].lower())
       RECP = re.search('promedio',SPL1[0].lower())
       Lector_Json.MostrarDatos(SPL2[0],SPL2[1])
-
-      if RECN
-
+      for f in range(len(Lector_Json.matrizAmostra)):
+            for c in range(len(Lector_Json.matrizAmostra[0])):
+                  print(Lector_Json.matrizAmostra[f][c],end='')
+            print()
 
 
 
