@@ -21,11 +21,14 @@ if Accion[0].lower() == 'cargar':
 if Accion[0].lower() == 'seleccionar':
       SPL1 = re.split(' donde ', Accion[1])
       SPL2 = re.split(' = ',SPL1[1])
-      SPL3 = re.
+      RECN = re.search('nombre',SPL1[0].lower())
+      RECE = re.search('edad',SPL1[0].lower())
+      RECA = re.search('activo',SPL1[0].lower())
+      RECP = re.search('promedio',SPL1[0].lower())
       Lector_Json.MostrarDatos(SPL2[0],SPL2[1])
-      if
-      for i in range(len(Lector_Json.matrizAmostra)):
-            for c
+
+      if RECN
+
 
 
 
